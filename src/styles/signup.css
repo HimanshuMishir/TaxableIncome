@@ -1,0 +1,14 @@
+.signup {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.signup input {
+  margin: 5px;
+  width: 300px;
+  height: 25px;
+  border-radius: 5px;
+  border-color: grey;
+}
